@@ -18,7 +18,7 @@ Note uses a number of open source projects to work properly:
 
 * [Bootstrap 4] - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
 * [jQuery] - jQuery is a fast, small, and feature-rich JavaScript library
-* [PHP] - DescriptionPHP: Hypertext Preprocessor is a server-side scripting language designed for Web development
+* [PHP] - Hypertext Preprocessor is a server-side scripting language designed for Web development
 * [MySQL] - MySQL is an open source relational database management system
 * [AndroidHive] - Login and Registration with PHP, MySQL
 
