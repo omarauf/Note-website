@@ -3,8 +3,8 @@
 /**
  * Database config variables
  */
-define("DB_HOST", "localhost");
-define("DB_USER", "admin_note");
-define("DB_PASSWORD", "lFz9Tmpp8c");
-define("DB_DATABASE", "admin_note");
+define("DB_HOST", "database ip");
+define("DB_USER", "database user");
+define("DB_PASSWORD", "database password");
+define("DB_DATABASE", "database name");
 ?>
