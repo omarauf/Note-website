@@ -21,6 +21,7 @@ Most of the Back-End functions are located in include/DB_Functions.php
 The database is MySQL, creating two table: 
 1.	users which attributes are id, name, email, encrypted_password and salt 
 2.	notes which attributes are note_id, user_id, note
+
 The user_id attribute are foreign key and id, note_id are prime keys
 
 
