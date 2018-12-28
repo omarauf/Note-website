@@ -14,6 +14,16 @@ Note taking website allow the user to write notes.
 
 ### Tech
 
+Register page create user by email, name and password the website encrypted the password by salt using Base64 encoding.
+The Front-End of website developed using Bootstrap 4 framework and the Back-End developed by PHP language 
+Most of the Back-End functions are located in include/DB_Functions.php
+
+The database is MySQL, creating two table: 
+1.	users which attributes are id, name, email, encrypted_password and salt 
+2.	notes which attributes are note_id, user_id, note
+The user_id attribute are foreign key and id, note_id are prime keys
+
+
 Note uses a number of open source projects to work properly:
 
 * [Bootstrap 4] - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
