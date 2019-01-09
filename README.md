@@ -39,7 +39,7 @@ just put database credentials in include/Config.php file
 
 ### Flowchart
 
-![](https://raw.githubusercontent.com/omarauf/Note-website/master/PIC/Note-flowchart.PNG)
+![](https://raw.githubusercontent.com/omarauf/Note-website/master/PIC/Note-flowchart.jpg)
 
    [Bootstrap 4]: <https://getbootstrap.com/>
    [jQuery]: <http://jquery.com>
