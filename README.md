@@ -37,6 +37,10 @@ Note uses a number of open source projects to work properly:
 
 just put database credentials in include/Config.php file
 
+### Flowchart
+
+![](https://raw.githubusercontent.com/omarauf/Note-website/master/PIC/Note-flowchart.PNG)
+
    [Bootstrap 4]: <https://getbootstrap.com/>
    [jQuery]: <http://jquery.com>
    [php]: <http://twitter.com/tjholowaychuk>
